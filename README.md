@@ -16,12 +16,11 @@ Brain encoding is the process of converting texual, visual or any sensory inform
 ├── ensemble_stacking.ipynb     # contains code for ensemble stacking model
 ├── ensemble_weights_getter.py  # contains code for getting weights
 ├── featuer_extractor.ipynb     # contains code for extracting features for base models
-├── job.sh                      # script for batch job
-└── 
+└── job.sh                      # script for batch job
 ```
 
 ## Checkpoints
-
+[Link](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/jerrin_thomas_research_iiit_ac_in/ElHratNma81JlAgp86WdL0QBNH4iveytFeZwfF4SeNuT-w?e=l26th6)
 
 ## Members
 
